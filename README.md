@@ -4,14 +4,14 @@ Using mocked data supplied by the Washington Post, this project seeks to underst
 
 Summary
 
-Driver I: Washington Post website was not converting visits to video starts 
+- Driver I: Washington Post website was not converting visits to video starts 
 
 Solution: Develop a captive audience using modern web techniques like gamification and infinite scroll
 
-Driver II: Social Media referrals were dropping, reducing video starts as a result 
+- Driver II: Social Media referrals were dropping, reducing video starts as a result 
 
 Solution: Follow up on a previous beta test and increase natively uploaded videos to social media 
 
-Driver III: Web traffic was dropping or stalling during historically peak hours and night shifts
+- Driver III: Web traffic was dropping or stalling during historically peak hours and night shifts
 
 Solution: Leverage peak hours for promoted content and popular content, cultivate new audience during the night shift
