@@ -1,4 +1,4 @@
-# Washington Post Video Starts Diagnosis
+# Washington Post Video Starts Diagnosis (download ppt!)
 
 Using mocked data supplied by the Washington Post, this project seeks to understand the causes and the severity of the drop in video starts experienced in October 2017. The analysis also develops a sustainable solution to the issue by identifying three key drivers. 
 
