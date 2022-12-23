@@ -2,7 +2,13 @@
 
 ## Overview 
 
+### Prompt 
+
 Using mocked data supplied by the Washington Post, this project diagnoses the causes and assesses the severity of the drop in video starts experienced in October 2017. The analysis also develops a sustainable solution to the issue by identifying three key drivers. 
+
+### Data
+
+As noted, data was supplied by the Washington Post and primary included video start data across different Washington Post platforms in a time series format. 
 
 ## Report 
 
