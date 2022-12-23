@@ -12,6 +12,6 @@ The report is detailed in a powerpoint that is included in this repository as a 
 
 A screenshot of the slide summarizing my three big findings is attached here as a shorter alternative to viewing the full presentation. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/aks5bx/WaPoVideoStarts/blob/main/wapo.png)
 
 
